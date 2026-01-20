@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "React-based To-Do Manager with folders and categories",
   "main": "index.js",
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
